@@ -1,3 +1,3 @@
 # spring boot
- Pequeño proyecto para la UNS con MVC, orientado a REST ; aplicando: Spring Boot, JPA, Hibernate and PostgreSQL.
+Ejercicio practico de Spring para la UNS con MVC, orientado a REST ; aplicando: Spring Boot, JPA, Hibernate and PostgreSQL.
 
